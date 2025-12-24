@@ -1,64 +1,83 @@
-# Hi there! 👋 I'm @Arshdeep00Kaur  
+Hi there! 👋 I'm @Arshdeep00Kaur
 
-👩‍💻 **About Me:**  
-- 🔍 A data enthusiast passionate about transforming raw data into impactful insights.  
-- 🌟 Aspiring to become a **Data Scientist** and make a difference using data-driven solutions.  
-- 🧠 Continuously learning and exploring the world of data analytics and AI.  
+👩‍💻 About Me:
 
----
+🔍 A data & AI enthusiast passionate about turning data into meaningful insights and intelligent solutions.
 
-👀 **What I’m Interested In:**  
-- 📊 **Data Analytics**: Analyzing data to uncover trends and patterns.  
-- 🤖 **Machine Learning**: Building intelligent models that adapt and evolve.  
-- 🛠️ **SQL**: Writing efficient queries to manage and analyze complex datasets.  
-  
+🌟 Aspiring Data Analyst / Machine Learning & Generative AI Engineer.
 
----
+🧠 Actively learning Generative AI, Machine Learning, and advanced data analytics tools.
 
-🌱 **What I’m Currently Learning:**  
-- **SQL**: Mastering database querying, joins, and optimization techniques.  
-- **Machine Learning**: Implementing algorithms like regression, classification, and clustering.  
-- **Python Libraries**: Exploring advanced libraries like scikit-learn and TensorFlow.  
-- **Power BI**: Enhancing my visualization skills to create insightful dashboards.  
+📈 Strong interest in building real-world, impact-driven AI applications.
 
----
+👀 What I’m Interested In:
 
-💞️ **Looking to Collaborate On:**  
-- **Data Analysis Projects**: Solving real-world problems with data insights.  
-- **Machine Learning Models**: Developing predictive and prescriptive models.  
-- **SQL Challenges**: Writing complex queries and optimizing database operations.  
-- **Open-Source Projects**: Contributing to AI and data science repositories.  
+📊 Data Analytics: Extracting insights, trends, and business intelligence from data.
 
----
+🤖 Machine Learning: Regression, classification, clustering, and model evaluation.
 
-📫 **How to Reach Me:**  
-- 📧 Email: arsh0deep0kaur0@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/arshdeep-kaur-11438528a
+🧠 Generative AI: LLMs, prompt engineering, RAG-based applications, and AI agents.
 
+🛠️ SQL: Writing optimized queries for complex data analysis and reporting.
 
----
+What I’m Currently Learning:
 
-⚡ **Fun Facts About Me:**  
-- I love breaking down complex datasets into simple, actionable insights.  
-- Working on SQL queries feels like solving puzzles—it’s exciting and rewarding!  
-- I’m always on the lookout for new AI/ML trends and tools to experiment with.  
+Generative AI:
 
----
+LLM concepts
 
-🚀 **Tech Stack & Tools:**  
-- **Languages:** Python, SQL  
-- **Machine Learning:** scikit-learn  
-- **Visualization:** Power BI, Matplotlib, Seaborn  
-- **Other Tools:** pandas, NumPy  
+Prompt Engineering
 
----
+RAG (Retrieval-Augmented Generation)
 
-📌 **Quote I Live By:**  
-_"The goal is to turn data into information, and information into insight."_  
+AI agents & real-world GenAI applications
 
+Machine Learning: Practical implementation using scikit-learn
 
+SQL: Advanced joins, subqueries, optimization
 
-<!---
-Arshdeep00Kaur/Arshdeep00Kaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Python Libraries: pandas, NumPy, scikit-learn, TensorFlow (basics)
+
+✅ Power BI: Completed — creating interactive dashboards and visual analytics
+
+💞️ Looking to Collaborate On:
+
+Generative AI Projects (RAG apps, chatbots, AI assistants)
+
+Data Analysis & Visualization Projects
+
+Machine Learning Models
+
+SQL Case Studies & Challenges
+
+Open-Source AI / Data Science Projects
+
+📫 How to Reach Me:
+
+📧 Email: arsh0deep0kaur0@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/arshdeep-kaur-11438528a
+
+Fun Facts About Me:
+
+I enjoy simplifying complex datasets and AI concepts into clear insights.
+
+Writing SQL queries feels like solving logic puzzles 🧩
+
+I love experimenting with new GenAI tools, models, and workflows.
+
+🚀 Tech Stack & Tools:
+
+Languages: Python, SQL
+
+Data Analysis: pandas, NumPy
+
+Machine Learning: scikit-learn
+
+Generative AI: LLMs, Prompt Engineering, RAG (learning & building)
+
+Visualization: Power BI, Matplotlib, Seaborn
+
+📌 Quote I Live By:
+
+"The goal is to turn data into information, and information into insight."
